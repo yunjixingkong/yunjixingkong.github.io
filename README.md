@@ -47,6 +47,12 @@
 
 To learn how to use, develop, and upgrade the project, please refer to the [Wiki][wiki].
 
+conda安装
+
+```shell
+conda install gxx_impl_linux-64 ruby
+```
+
 ## Contributing
 
 Contributions (_pull requests_, _issues_, and _discussions_) are what make the open-source community such an amazing place
